@@ -1,0 +1,1 @@
+document.getElementById("paragraph").textContent = `URL actual: ${window.location.href}`;

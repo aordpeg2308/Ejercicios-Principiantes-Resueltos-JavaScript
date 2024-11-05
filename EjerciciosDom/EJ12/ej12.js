@@ -1,0 +1,1 @@
+document.getElementById("displayInfo").textContent = `Información del navegador: ${navigator.userAgent}`;
