@@ -1,0 +1,25 @@
+.mesa {
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.disponible {
+    background-color: green;
+    color: white;
+}
+
+.ocupada {
+    background-color: red;
+    color: white;
+}
+
+#estado {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
